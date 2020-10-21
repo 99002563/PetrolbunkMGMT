@@ -5,6 +5,7 @@
     #include<unistd.h>
     #include<stdio.h>
     #include<stdlib.h>
+    #include <assert.h>
 
     #define totalCars 100000
     #define fuelMen 3
@@ -37,5 +38,6 @@
     void AttenderMaker();
     void acceptPayment();
     void CarMaker();
-
+    void write_pipe(int writefd,int value);
+    void read_pipe(int readfd,int *value,int *status);
 #endif
