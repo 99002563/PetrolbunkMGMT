@@ -1,10 +1,7 @@
 #include <petrolbunk.h>
-
-void acceptPayment();
-
-void CarMaker();
-
-
+/*
+	gcc $(SRC) $(INC) -o $(PROJECT_OUT) -Xlinker -zmuldefs -IINC -lpthread
+*/
 int main() 
 { 
 	int iseed=time(NULL);

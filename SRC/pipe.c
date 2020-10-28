@@ -8,7 +8,6 @@ void write_pipe(int writefd,int value)
 	}
 }
 
-
 void read_pipe(int readfd,int *value,int *status)
 {
 	int n;
