@@ -17,5 +17,5 @@ jobs:
     - name: Go-CI
       uses: rkoCyrus/Go-CI@2.0.0
 
-    - name: make all
-      run:  make
+    - name: Building PetrolbunkMGMT
+      run:  make all
