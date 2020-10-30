@@ -1,6 +1,6 @@
 |Build|CPPCheck|
 |:--:|:--:|
-|![cppcheck-action](https://github.com/99002686/PetrolbunkMGMT/workflows/cppcheck-action/badge.svg)|![cppcheck-action](https://github.com/99002686/PetrolbunkMGMT/workflows/cppcheck-action/badge.svg)|
+|![C/C++ CI](https://github.com/99002686/PetrolbunkMGMT/workflows/C/C++%20CI/badge.svg)|![cppcheck-action](https://github.com/99002686/PetrolbunkMGMT/workflows/cppcheck-action/badge.svg)|
 
 
 # Merging with the contributor
